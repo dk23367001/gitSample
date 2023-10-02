@@ -1,0 +1,77 @@
+[33mcommit 7b04ab56fd212122558b28c06a8c99c08ceb661b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Sun Oct 1 07:22:13 2023 +0900
+
+    Delete .DS_Store
+
+[33mcommit 3646cdb34e513b0d5d7f51d13a823827c1fdbb18[m
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Mon Sep 25 09:02:31 2023 +0900
+
+    Delete michkazuokai.txt
+
+[33mcommit 52d69927af1729e44b58cd8d7442d4cbcc583483[m
+Merge: 707b635 50e5e64
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Sun Jul 23 13:20:47 2023 +0900
+
+    Merge pull request #2 from michikazuokai/br01
+    
+    michikazuokaiがreadme.mdとファイルを追加
+
+[33mcommit 50e5e645c9810d2e90b42ff3ff471ec5aa64145d[m
+Author: michikazuokai <foray-puppets-0t@icloud.com>
+Date:   Sun Jul 23 08:29:24 2023 +0900
+
+    michikazuokaiがreadme.mdとファイルを追加
+
+[33mcommit 707b6351d62bd74d0639e9779b83903bc13bf847[m
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Sat Jul 22 17:23:46 2023 +0900
+
+    Delete test01.txt
+
+[33mcommit e0a7026d6ecff6b3d68467b72b5e6780f030a4ad[m
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Sat Jul 22 14:34:33 2023 +0900
+
+    Update test01.txt om036702
+
+[33mcommit ed3bcd72a4d6edce75a3a12410086bbbf3bcb603[m
+Merge: 7797643 7028990
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Sat Jul 22 14:13:41 2023 +0900
+
+    Merge pull request #1 from michikazuokai/br01
+    
+    test01.txtを修正した
+
+[33mcommit 7028990e1a613c4049c675e1f4a98a4b1a569dd4[m
+Author: michikazuokai <138543233+michikazuokai@users.noreply.github.com>
+Date:   Sat Jul 22 14:05:04 2023 +0900
+
+    Update test01.txt 修正リクエストより
+
+[33mcommit 5b7203229b44e298c786ed67c7cc62fc34558d20[m
+Author: michikazuokai <foray-puppets-0t@icloud.com>
+Date:   Sat Jul 22 13:56:21 2023 +0900
+
+    clone後まずはcommit
+
+[33mcommit e123d9d5941072785ae7fc532c1fd58cab28e19d[m
+Author: michikazuokai <foray-puppets-0t@icloud.com>
+Date:   Thu Jul 20 09:13:12 2023 +0900
+
+    ローカルでtest01.txt追加
+
+[33mcommit 77976432051ba9e0bc885e4423db176b06628ef5[m
+Author: om036702 <139424475+om036702@users.noreply.github.com>
+Date:   Thu Jul 20 07:10:22 2023 +0900
+
+    Update README.md
+
+[33mcommit 552190aa3e6d6004e00cf19c0632a57332f3d49b[m
+Author: om036702 <om036702@ga.ttc.ac.jp>
+Date:   Thu Jul 20 07:08:14 2023 +0900
+
+    gitSample
